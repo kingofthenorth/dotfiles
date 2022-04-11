@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = francoisdefroment@gmail.com
+	name = francois de froment
